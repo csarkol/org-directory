@@ -1,0 +1,13 @@
+{
+  "engineering": {
+    "type": "dynamic",
+    "criteria": {
+      "title": "Engineer"
+    },
+    "members": []
+  },
+  "admin-group": {
+    "type": "static",
+    "members": ["admin-user"]
+  }
+}
